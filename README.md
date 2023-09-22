@@ -1,8 +1,8 @@
-https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/347098591_957191812285632_881485758897130480_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=52f669&_nc_ohc=IIp7TuOIeckAX8icG57&_nc_ht=scontent.fdac5-1.fna&oh=00_AfDRVuob9hUQq7fhuuzgTpAGlWi8ANoSWvfsDV12E0Ozdg&oe=65136FBD
+(https://camo.githubusercontent.com/54ac58a4d45ac9c6d3f0006ab8897bd91a7afe17e7abc9128213a65678fa9d27/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313639333630303130303333313935303038302f313639343730303338392f36303078323030)
 
 ### Hi there 👋, I am Ridwan
 #### (Front-End Web Developer)
-![(Front-End Web Developer)])
+![(Front-End Web Developer)]
 
 Hi there! I am Ridwan, a web developer. Full and fresh hard code is my power. Client's satisfaction is my first priority.
 
@@ -22,5 +22,6 @@ Skills: JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/ridwanarefin)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ridwanarefin)  
+
 
 
