@@ -1,4 +1,4 @@
-(https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/347098591_957191812285632_881485758897130480_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=52f669&_nc_ohc=IIp7TuOIeckAX8icG57&_nc_ht=scontent.fdac5-1.fna&oh=00_AfDRVuob9hUQq7fhuuzgTpAGlWi8ANoSWvfsDV12E0Ozdg&oe=65136FBD)
+https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/347098591_957191812285632_881485758897130480_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=52f669&_nc_ohc=IIp7TuOIeckAX8icG57&_nc_ht=scontent.fdac5-1.fna&oh=00_AfDRVuob9hUQq7fhuuzgTpAGlWi8ANoSWvfsDV12E0Ozdg&oe=65136FBD
 
 ### Hi there 👋, I am Ridwan
 #### (Front-End Web Developer)
