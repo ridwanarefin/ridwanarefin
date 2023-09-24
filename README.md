@@ -4,7 +4,7 @@
 #### (Front-End Web Developer)
 
 
-Hi there! I am Ridwan, a web developer. Full and fresh hard code is my power. Client's satisfaction is my first priority.
+Hi there! I am Ridwan, a Front-End Web Developer. Full and fresh hard code is my power. Client's satisfaction is my first priority.
 
 Skills: JS / HTML / CSS
 
